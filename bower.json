@@ -1,0 +1,17 @@
+{
+  "name": "normalize.sass",
+  "homepage": "https://github.com/leventekk/normalize.sass",
+  "authors": [
+    "levente kiraly <leventekkiraly@gmail.com>"
+  ],
+  "description": "normalize.css sass implementation",
+  "main": "_normalize.sass",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
